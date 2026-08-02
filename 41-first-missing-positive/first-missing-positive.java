@@ -19,6 +19,6 @@ class Solution {
                 return index + 1;
             }
         }
-        return arr.length + 1;
+        return arr.length+1;
     }
 }
